@@ -28,4 +28,4 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-X-Araujo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-anderson&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
